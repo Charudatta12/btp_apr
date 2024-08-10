@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _schema-version: '3.1'
 ID: ZBHARTI
 version: 1.0.0
@@ -86,3 +87,8 @@ resources:
       config:
         xsappname: ZBHARTI-${org}-${space}
         tenant-mode: dedicated
+=======
+_schema-version: "3.2"
+ID: ZFIRST
+version: 0.0.1
+>>>>>>> 6cdb4c4 (add allchanges)
